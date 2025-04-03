@@ -52,3 +52,23 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# 빌드 디렉토리
+Debug/
+Release/
+build/
+
+# Visual Studio 관련
+*.suo
+*.user
+*.userosscache
+*.VC.db
+.vscode/
+.vs/
+
+# 기타
+*.obj
+*.exe
+*.log
+*.pch
+
